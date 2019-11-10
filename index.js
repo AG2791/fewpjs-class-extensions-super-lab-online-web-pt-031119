@@ -9,7 +9,7 @@ class Tree {
   }
 }
 
-class Decidious extends Tree {
+class Deciduouss extends Tree {
   constructor(species, name) {
     super(species)
     this.name = name 
