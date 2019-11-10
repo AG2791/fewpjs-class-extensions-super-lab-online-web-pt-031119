@@ -12,7 +12,7 @@ class Tree {
 class Decidious extends Tree {
   constructor(species, name) {
     super(species)
-    this.name
+    this.name = name 
   }
   static definition() { 
     return `${super.definition()}  Deciduous trees shed their leaves annually.`
